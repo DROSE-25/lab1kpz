@@ -8,7 +8,7 @@ LB-AfanasievMykhailo
 
 Використовуючи оператор let, я оголосив змінні типів: string, number, boolean, array, object. Потім я створив функцію, яка приймає як аргумент об'єкт із полями name (тип string) та age (тип number) і повертає рядок виду: "Name: John, Age: 30".
 
-![Перегляд деталей](imageslb1/i.png)
+![Перегляд деталей](imageslb1/1.png)
 
 Рис.1 - Перегляд созданих типiв  
 
